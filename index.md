@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Zoren John A. Velasquez
+<p> I am currently a third-year college student in the University of the Philippines Diliman taking up my Bachelor's degree in Statistics. I hope to venture into a career in Bioinformatics and Biostatistics in the future. </p>
 ## Header 2
 ### Header 3
 
